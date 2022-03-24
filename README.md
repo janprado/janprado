@@ -1,4 +1,4 @@
-##  Hello World! I am Jan Prado, full stack student at Academia de Codigo in Portugal
+##  Hello World! I am Jan Prado, full stack student @<Academia de Codigo_> in Portugal.
 
 <div align="center">
   <a href="https://github.com/janprado">
